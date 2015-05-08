@@ -1,0 +1,14 @@
+{
+  "name": "quill-toolbar-blockquote",
+  "title": "quill-toolbar-blockquote",
+  "version": "0.0.1",
+  "devDependencies": {
+    "grunt": "0.4.5",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-less": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-lesslint": "~1.1.10"
+  }
+}

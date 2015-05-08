@@ -1,0 +1,19 @@
+{
+  "name": "quill-toolbar-blockquote",
+  "version": "0.0.1",
+  "homepage": "https://github.com/fonorobert/quill-toolbar-blockquote",
+  "authors": [
+    "fonorobert <fonorobert@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "quill": "*"
+  }
+}
